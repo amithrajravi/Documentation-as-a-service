@@ -14,25 +14,25 @@ Perform the following steps to withdraw money using Debit card from an ATM:
 1. Insert your Debit card in the card-reader slot.
 2. Select your preferred language.
 
-The possible values are as follows:
-- Hindi
-- English
-- Tamil
-3. Select your transaction type as Withdrawal.
+  The possible values are as follows:
+  - **Hindi**
+  - **English**
+  - **Tamil**
+3. Select your transaction type as **Withdrawal**.
 
-The possible values are as follows:
-- Withdrawal
-- Deposit
-- Transfer
-- Mini statement
-- Change ATM pin
+  The possible values are as follows:
+  - **Withdrawal**
+  - **Deposit**
+  - **Transfer**
+  - **Mini statement**
+  - **Change ATM pin**
 4. Select your account type.
 
-The possible values are as follows:
-- Savings
-- Current
+  The possible values are as follows:
+  - **Savings**
+  - **Current**
 5. Enter the amount to be withdrawn.
 6. Enter your Debit card pin.
 7. Collect the amount and the receipt.
-Your transaction is completed.
+  Your transaction is completed.
 8. Perform the above-mentioned steps for another transaction.
