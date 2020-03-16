@@ -34,6 +34,4 @@ Perform the following steps to withdraw money using Debit card from an ATM:
 5. Enter the amount to be withdrawn.
 6. Enter your Debit card pin.
 7. Collect the amount and the receipt.
-
-Your transaction is completed.
 8. Perform the above-mentioned steps for another transaction.
